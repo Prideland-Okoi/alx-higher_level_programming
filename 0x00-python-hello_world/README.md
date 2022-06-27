@@ -42,6 +42,8 @@ An introductory project on:
   * code must be 3 lines long
   * have to use the [(new print formatting)](https://pyformat.info/#number)
 
+### Advanced
+
 **[4-print_float.py](4-print_float.py)** - Complete the [source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits.
   * not allowed to cast `number` to a string
   * have to use the [(new print formatting)](https://pyformat.info/#number)
@@ -71,7 +73,6 @@ An introductory project on:
 **[9-easter_egg.py](9-easter_egg.py)** - Write a Python script that prints "The Zen of Python", by TimPeters, followed by a new line.
   * script should be maximum 98 characters long
 
-### Advanced
 **[100-write.py](100-write.py)** - Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
   * Use the function `write` from the `sys` module
   * not allowed to use `print`
