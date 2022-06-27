@@ -22,8 +22,11 @@ An introductory project on:
 **Using the Python Interpreter** [Read/Watch](https://docs.python.org/3/tutorial/interpreter.html)
 
 **An Informal Introduction to Python** (Read up until “3.1.2. Strings” included)[Read/Watch](https://docs.python.org/3/tutorial/introduction.html)
+
 **How To Use String Formatters in Python 3** [Read/Watch](https://realpython.com/python-f-strings/)
+
 **Learn to Program** [Read/Watch](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+
 **Pycodestyle – Style Guide for Python Code** [Read/watch](https://pypi.org/project/pycodestyle/)
 
 ## File Descriptions
