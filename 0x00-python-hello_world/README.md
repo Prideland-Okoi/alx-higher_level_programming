@@ -1,4 +1,6 @@
 # 0x00. Python - Hello, World
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg"/>
+
 ## About
 An introductory project on:
 - How to use the Python interpreter
@@ -8,7 +10,8 @@ An introductory project on:
 - How to check your code with `pycodestyle` formerly called `PEP-8`
 
 ## Requirements
-- Python 3.10
+- Python 3.4
+- Ubuntu 14.04 LTS
 - pycodestyle 2.8.0
 
 ## Resources
