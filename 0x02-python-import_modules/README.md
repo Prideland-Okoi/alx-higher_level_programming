@@ -4,7 +4,9 @@ Project done during **ALX Software Engineering Scholarship 2022** at **Alx Stude
 ## Resources
 
 Modules [Read or watch](https://docs.python.org/3/tutorial/modules.html)
+
 Command line arguments [Read or watch](https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments)
+
 Pycodestyle – Style Guide for Python Code [Read or watch](https://pypi.org/project/pycodestyle/)
 
 ## Technologies
