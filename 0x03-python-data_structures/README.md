@@ -2,8 +2,6 @@
 
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about lists, tuples and strings in **Python**.
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif" width="600">
-
 ## Resources
 
 3.1.3.Lists [Read or watch](https://docs.python.org/3/tutorial/introduction.html#lists)
