@@ -2,7 +2,7 @@
 
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about lists, tuples and strings in **Python**.
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220701T192239Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bd616293de61c5e84cc6f63bc27b081abb2d56aad748480b72a743cb9e1466bc" width="600">
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif" width="600">
 
 ## Resources
 
