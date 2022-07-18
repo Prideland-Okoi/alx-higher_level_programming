@@ -22,7 +22,7 @@ Read or watch:
 
 - [Learn to Program 11 Static & Exception Handling (starting at minute 7)](https://www.youtube.com/watch?v=7vbgD-3s-w4)
 
-
+- [Disassembler for Python bytecode](https://docs.python.org/3.4/library/dis.html)
 
 ## Technologies
 
@@ -37,7 +37,6 @@ Read or watch:
 
 
 ## Files
-
 
 
 ### Filename - Description
