@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-"""Define class MagicClass"""
+"""Define a class MagicClass that does exactly as the bytecode provided"""
 
 import math
 
 
 class MagicClass:
-    
+    """Represent a circle"""
+
     """Class that stores the properties of a circumference"""
     def __init__(self, radius=0):
         self.__radius = 0
