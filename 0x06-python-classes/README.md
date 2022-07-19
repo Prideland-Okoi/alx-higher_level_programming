@@ -6,9 +6,39 @@ Project done during **ALX Software Engineering Scholarship 2022** at **Alx Stude
 
 
 
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg" width="600">
+
+
+
 ## Resources:page_with_curl:
 
-<img src="" width="600">
+
+
+Read or watch:
+
+
+
+[Object Oriented Programming (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)](https://python.swaroopch.com/oop.html)
+
+
+
+[Object-Oriented Programming (Please _be careful_: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The **init** Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)](https://python-course.eu/oop/object-oriented-programming.php)
+
+
+
+[Properties vs. Getters and Setters](https://python-course.eu/oop/properties-vs-getters-and-setters.php)
+
+
+
+[Learn to Program 9 : Object Oriented Programming](https://www.youtube.com/watch?v=1AGyBuVCTeE)
+
+
+
+[Python Classes and Objects](https://www.youtube.com/watch?v=apACNr7DC_s)
+
+
+
+[Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
 
 
 
@@ -73,3 +103,5 @@ Project done during **ALX Software Engineering Scholarship 2022** at **Alx Stude
 
 
 *`ByteCode ->Python #5` [103-python.c](./103-magic_class.py) - Python Class that does exactly the same as a Python bytecode given
+
+
