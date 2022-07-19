@@ -1,14 +1,12 @@
 #!/usr/bin/python3
+"""Define class MagicClass"""
+
 import math
 
 
-"""Define class MagicClass"""
-
-
 class MagicClass:
-
-    """Class that stores the properties
-    of a circumference"""
+    
+    """Class that stores the properties of a circumference"""
     def __init__(self, radius=0):
         self.__radius = 0
         if type(radius) is not int and type(radius) is not float:
