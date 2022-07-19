@@ -1,8 +1,10 @@
 #!/usr/bin/python3
-"""Define a class Node"""
+"""Define classes for a singly-linked list."""
 
 
 class Node:
+    """Represent a node in a singly-linked list."""
+
     def __init__(self, data, next_node=None):
         self.data = data
         self.next_node = next_node
@@ -29,6 +31,8 @@ class Node:
 
 
 class SinglyLinkedList:
+    """Represent a singly-linked list."""
+
     def __str__(self):
         rtn = ""
         ptr = self.__head
