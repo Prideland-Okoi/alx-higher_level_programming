@@ -2,7 +2,7 @@
 
 Project done during **ALX Software Engineering Scholarship 2022** at ** Alx Students Education**. It aims to learn about docstrings to create and implement tests in **Python**.
 
-<img src"./https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif" width="600">
+<img src"./https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif" width="600"/>
 
 ## Resources
 
@@ -13,6 +13,9 @@ Read or watch:
 * [doctest – Testing through documentation]()
 
 * [Unit Tests in Python]()
+
+<img src="./https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif" width="400"/>
+
 
 ## Technologies
 * Python Scripts are written with Python 3.9.7
@@ -31,5 +34,3 @@ Read or watch:
 | `100-matrix_mul.py` | Function that multiplies 2 matrices (Doctest on `tests/100-matrix_mul.txt`) |
 | `101-lazy_matrix_mul.py` | Function that multiplies 2 matrices by using the module **NumPy** (Doctest on `tests/101-lazy_matrix_mul.txt`) |
 | `102-python.c` | Function that prints Python strings |
-
-<img src="./https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif" width="400">
