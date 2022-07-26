@@ -8,13 +8,11 @@ Project done during **ALX Software Engineering Scholarship 2022** at ** Alx Stud
 
 Read or watch:
 
-* [doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)]()
+* [doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)](https://docs.python.org/3.4/library/doctest.html)
 
-* [doctest – Testing through documentation]()
+* [doctest – Testing through documentation](https://pymotw.com/3/doctest/)
 
-* [Unit Tests in Python]()
-
-<img src="./https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif" width="400"/>
+* [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 
 
 ## Technologies
