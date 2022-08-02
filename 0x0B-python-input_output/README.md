@@ -26,7 +26,7 @@ Read or watch:
 ## Files
 
 | Filename | Description |
-| -------- | ----------- |
+| ----------- | ----------- |
 | `0-read_file.py` | Function that reads a text file and prints it to stdout |
 | `1-write_file.py` | Function that writes a string to a text file and returns the number of characters written |
 | `2-append_write.py` | Function that appends a string at the end of a text file |
@@ -42,4 +42,3 @@ Read or watch:
 | `12-pascal_triangle.py` | Function that returns a list of lists of integers representing the Pascal¡s triangle of `n` |
 | `100-append_after.py` | Function that inserts a line of text to a file, after each line containing a specific string |
 | `101-stats.py` | Function that reads `stdin` line by line and computes metrics |
-| `read_write_heap.py` | Script that finds in the heap of a running process, and replaces it |
