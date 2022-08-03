@@ -20,7 +20,7 @@ try:
                 file_size += int(tokens[-1])
                 if a == j:
                     j += 1
-            except:
+            except (IndexError, ValueError):
                 if a == j:
                     continue
         if j % 10 == 0:
