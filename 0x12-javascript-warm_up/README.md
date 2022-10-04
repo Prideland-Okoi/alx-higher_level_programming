@@ -38,7 +38,7 @@ Project done during **ALX SOftware Engineering Scholarship 2022** at **Alx Stude
 |`7-multi_c.js`|Write a script that prints `x` times “C is fun”|
 |`8-square.js`|Function that writes a script that prints a square|
 |`9-add.js`|Function that write script that prints the addition of 2 integers|
-|`10-factorial.js'|Function that writes a script that computes and prints a factorial|
+|`10-factorial.js`|Function that writes a script that computes and prints a factorial|
 |`11-second_biggest.js`|Function that writes a script that searches the second biggest integer in the list of arguments.|
 |`12-object.js`|Update this script to replace the value `12` with `89`|
 |`13-add.js`|Function that returns the addition of 2 integers.|
