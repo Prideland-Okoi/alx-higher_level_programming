@@ -2,7 +2,7 @@
 
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about object basics, class, extend, inheritance, closures in JavaScript.
 
-<img src="https://static.javapoint.com/javascriptpages/images/what-are-the-uses-of-javascript.png" width="600px"/>
+<img src="https://static.javatpoint.com/javascriptpages/images/what-are-the-uses-of-javascript.png" width="600px"/>
 
 ## Resources
 * [JavaScript Object basics]()
@@ -24,7 +24,7 @@ Project done during **ALX Software Engineering Scholarship 2022** at **Alx Stude
 ## Files
 | Filename | Description|
 |--------|----------|
-|`0-rectangl|e.js`|Function that writes an empty class `Rectangle` that defines a rectangle|
+|`0-rectangle.js`|Function that writes an empty class `Rectangle` that defines a rectangle|
 |`1-rectangle.js`| Function that writes a class `Rectangle` that defines a rectangle |
 |`2-rectangle.js`| Function that writes a class `Rectangle` that defines a rectangle |
 |`3-rectangle.js`| Function that writes a class `Rectangle` that defines a rectangle |
