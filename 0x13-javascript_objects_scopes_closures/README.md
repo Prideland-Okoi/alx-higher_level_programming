@@ -1,4 +1,3 @@
-9238a3a4b07c3f9d30c6
 # JavaScript - Objects, Scopes and Closures
 
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about object basics, class, extend, inheritance, closures in JavaScript.
