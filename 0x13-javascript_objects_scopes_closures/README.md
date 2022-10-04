@@ -5,15 +5,15 @@ Project done during **ALX Software Engineering Scholarship 2022** at **Alx Stude
 <img src="https://static.javatpoint.com/javascriptpages/images/what-are-the-uses-of-javascript.png" width="600px"/>
 
 ## Resources
-* [JavaScript Object basics]()
-* [Object-oriented JavaScript]()
-* [Class – ES6]()
-* [super – ES6]()
-* [extends – ES6]()
-* [Objects prototypes]()
-* [Inheritance in JavaScript]()
-* [Closure]()
-* [this/self]()
+* [JavaScript Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+* [Class – ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [super – ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+* [extends – ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
+* [Objects prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+* [Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+* [this/self](https://alistapart.com/article/getoutbindingsituations/)
 * [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## Technologies
