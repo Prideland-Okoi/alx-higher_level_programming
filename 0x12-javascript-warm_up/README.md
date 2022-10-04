@@ -2,7 +2,7 @@
 
 Project done during **ALX SOftware Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about all basic concepts of JavaScript.
 
-<img src="" width="600px"/>
+<img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS-650-80.jpg" width="600px"/>
 
 ## Resources
 * [Writing JavaScript Code]()
