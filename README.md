@@ -16,10 +16,13 @@ This repository contains introductory projects for higher-level programming. Top
 
 
 ## Requirements
-* Ubuntu 14.04 LTS
-* Python 3.4
-* pip3 1.5
+* Ubuntu 20.04 LTS
+* Python 3.10.7
+* pip3 22.2.2
 * pycodestyle 2.8.0
+* Scripts are written in Bash 4.4.23(2)
+* JS files are compiled using `node 16.15.0`, `npm 8.5.5` and `semistandard 16.0.1
+
 
 ## Projects
 1. [0x00-python-hello_world](./0x00-python-hello_world)
