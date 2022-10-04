@@ -5,19 +5,19 @@ Project done during **ALX SOftware Engineering Scholarship 2022** at **Alx Stude
 <img src="https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS-650-80.jpg" width="600px"/>
 
 ## Resources
-* [Writing JavaScript Code]()
-* [Variables]()
-* [Data Types]()
-* [Operators]()
-* [Operator Precedence]()
-* [Controlling Program Flow]()
-* [Functions]()
-* [Objects and Arrays]()
-* [Intrinsic Objects]()
-* [Module patterns]()
-* [var, let and const]()
-* [JavaScript Tutorial]()
-* [Modern JS]()
+* [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+* [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+* [Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+* [Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+* [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+* [Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+* [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+* [Module patterns](http://darrenderidder.github.io/talks/ModulePatterns/#/)
+* [var, let and const](https://m.youtube.com/watch?v=sjyJBL5fkp8)
+* [JavaScript Tutorial](https://m.youtube.com/watch?v=vZBCTc9zHtI)
+* [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## Technologies
 * Scripts are written in Bash 4.4.23(2)
