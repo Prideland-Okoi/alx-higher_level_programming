@@ -1,7 +1,7 @@
 # Network 0
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about what is a URL, what is HTTP, how to read a URL, how to define a port in a URL and how to make a request with cURL.
 
-<img src="https://daniel.haxx.se/blog/wp-content/uploads/2016/04/good_curl_logo.png"width="800px"/>
+<img src="https://daniel.haxx.se/blog/wp-content/uploads/2016/04/good_curl_logo.png" width="600px"/>
 
 ## Technologies
 * Scripts written in Bash 4.3.23(2)
