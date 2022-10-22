@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ A Python script that fetches https://intranet.hbtn.io/status """
 import urllib.request
-
+import sys
 
 if __name__ == "__main__":
     with urllib.request.urlopen('https://intranet.hbtn.io/status') as response:
