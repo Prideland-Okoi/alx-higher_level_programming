@@ -10,9 +10,16 @@ import sys
 if __name__ == "__main__":
     repo = sys.argv[1]
     owner = sys.argv[2]
-    url = 'https://api.github.com/repos/{}/{}/commits'.format(owner, repo)
+    headers = {
+            'Accept': 'application/vnd.github.v3+json',
+            }
+    params = {
+            'page':10,
+            }
+
+    url_res = requests.get('https://api.github.com/repos/{}/{}/commits'.format(owner, repo),
+            headers=headers, params=params)
     r = get(url)
-    json_o = r.json()
-    for i in range(0, 10):
-        print("{}: {}".format(json_o[i].get('sha'), json_o[i].get('commit')
-                              .get('author').get('name')))
+    json_o = url_res.json()
+    for commit in json_o:
+        print(commit(['sha'] + ':', commit['commit']['author']['name'])
