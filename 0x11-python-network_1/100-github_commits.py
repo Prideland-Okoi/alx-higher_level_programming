@@ -10,5 +10,5 @@ if __name__ == '__main__':
                        .format(argv[2], argv[1]))
     json_o = url.json()
     for commit in json_o[:10]:
-        print(commit.get('sha'), end=':')
+        print(commit.get('sha'), end=': ')
         print(commit.get('commit').get('author').get('name'))
