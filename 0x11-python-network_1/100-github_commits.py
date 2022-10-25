@@ -4,8 +4,8 @@ A Python script that shows the last 10 commits of a repository
 in GitHub
 """
 
-import requests
-import sys
+from requests import get
+from sys import argv
 
 
 if __name__ == "__main__":
