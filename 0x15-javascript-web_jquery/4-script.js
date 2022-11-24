@@ -1,10 +1,8 @@
-const $ = window.$;
-$('DIV#toggle_header').click(function () {
-  if ($('HEADER').hasClass('red')) {
-    $('HEADER').removeClass('red');
-    $('HEADER').addClass('green');
+const header = $('header');
+$('div#toggle_header').click(function () {
+  if (header.hasClass('red')) {
+    header.removeClass('red').addClass('green');
   } else {
-    $('HEADER').removeClass('green');
-    $('HEADER').addClass('red');
+    header.removeClass('green').addClass('red');
   }
 });
